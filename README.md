@@ -4,9 +4,10 @@ TinyML-based ECG anomaly detection model developed for the ACM/IEEE TinyML Desig
 
 ## Achievement
 
-* Team: empas1
-* Rank: Top 15 Worldwide
-* Final Score: 122.19
+* Team: EmPasLab2 (4 members)
+* Rank: 11th Worldwide
+* Final Score: 123.04
+* F-beta: 0.947 · Generalization: 0.842 · Latency: 12.76 ms · Flash: 26.63 KB
 * https://tinymlcontest.github.io/TinyML-Design-Contest-2023/Winners.html
 ## Overview
 
